@@ -1,6 +1,6 @@
 {
     "name": "Cyclus Workshop Test",
-    "image": "ghcr.io/cyclus/cymetric_24.04_apt/cymetric:latest",
+yc    "image": "ghcr.io/cyclus/cymetric_24.04_apt/cymetric:latest",
     "features": {
         "ghcr.io/devcontainers/features/common-utils:2": {
             "username": "vscode",
@@ -20,7 +20,8 @@
                 "redhat.vscode-xml",
                 "ms-python.python",
                 "qwtel.sqlite-viewer",
-                "alexcvzz.vscode-sqlite"
+                "alexcvzz.vscode-sqlite",
+                "ms-toolsai.jupyter"
             ]
         }
     }
