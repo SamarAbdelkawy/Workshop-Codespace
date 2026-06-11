@@ -1,6 +1,6 @@
 {
     "name": "Cyclus Workshop Test",
-yc    "image": "ghcr.io/cyclus/cymetric_24.04_apt/cymetric:latest",
+    "image": "ghcr.io/cyclus/cymetric_24.04_apt/cymetric:latest",
     "features": {
         "ghcr.io/devcontainers/features/common-utils:2": {
             "username": "vscode",
